@@ -1,0 +1,28 @@
+site_name: Low Temperature Physics Lab @ CQU
+theme:
+  name: material
+  features:
+    - navigation.tabs
+
+markdown_extensions:
+  - attr_list
+
+# Page tree
+nav:
+  - Home: index.md
+  - People:
+    - people.md
+  - Publications:
+    - publications.md
+  - Facilities:
+    - facilities.md
+  - Teaching:
+    - teaching.md
+  - Seminars:
+    - seminars.md
+  - Gallery:
+    - gallary.md
+
+
+# Copyright
+copyright: Copyright &copy; Since 2020 Mingquan He
